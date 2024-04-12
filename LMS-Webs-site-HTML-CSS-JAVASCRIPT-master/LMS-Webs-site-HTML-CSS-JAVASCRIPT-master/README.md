@@ -4,7 +4,7 @@ LMS Website for online education institute. using html,css,javascript
 
 This web page is regadinng this question 
 Create a website for an institute that provides higher studies online. You can be named as 
-“Tech Mentors” and it should contain an appropriate theme. Users can browse 
+“LMS” and it should contain an appropriate theme. Users can browse 
 courses/programs by category, view customized courses with particulars including fees, 
 duration, pre-qualifications, etc. Also, it would be appreciated if you add other details like 
 history, contact number, and affiliations.
